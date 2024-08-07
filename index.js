@@ -1,4 +1,4 @@
-const BASE_URL = "https://api.fastforex.io/fetch-all?api_key=2bc0edb268-337f29c03c-shu26lL";
+const BASE_URL = "https://api.fastforex.io/fetch-all?api_key=2bc0edb268-337f29c03c-shu26l";
 const dropdowns = document.querySelectorAll(".dropdown select");
 const btn = document.querySelector("form button");
 const fromCurr = document.querySelector(".from select");
